@@ -1,0 +1,10 @@
+{
+  "model-name": "mistral",
+  "model-link": "D:/NK_Programming/AI-Models/mistral-7b-instruct-v0.1.Q5_K_M.gguf",
+  "model-link-bloke": "TheBloke/orca_mini_v3_7B-GPTQ",
+  "token-model-name-bloke": "TheBloke/orca_mini_v3_7B-GPTQ",
+  "brain-file": "unique_dataset.csv",
+  "vector-collection-name": "product_recommendation_cluster",
+  "vector-db-url": "https://8f0ec621-ea40-4fef-a41a-ec0cadbe7cb6.us-east4-0.gcp.cloud.qdrant.io:6333",
+  "vector-api-key": "UwU_pr4eAK6PFHXgeKLmlQQhgPn_us5aq5aY-1ikyEnObIxCPJ_U5Q"
+}

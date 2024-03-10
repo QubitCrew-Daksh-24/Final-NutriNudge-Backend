@@ -1,0 +1,65 @@
+Food Product,Ingredients,Allergens
+Almond Cookies,"Almonds, Sugar, Butter, Flour","Almonds, Wheat, Dairy"
+Ranch Dressing,"Buttermilk, Sugar, Vegetable oil, Garlic, herbs",Dairy
+Caramel Popcorn,"Popcorn, Sugar, Butter, Salt",Dairy
+Berry Parfait,"Mixed berries, Sugar, Yogurt (milk, cultures), Granola",Dairy
+Mango Lassi,"Mango, Sugar, Yogurt (milk, cultures), Cardamom",Dairy
+Banana Pudding,"Bananas, Sugar, Milk, Vanilla pudding mix, cookies",Dairy
+Chocolate Mousse,"Chocolate, Sugar, Heavy cream, Vanilla extract",Dairy
+Strawberry Smoothie,"Strawberries, Sugar, Yogurt, Milk",Dairy
+Berry Parfait,"Berries, Honey, Yogurt, Granola",Dairy
+Butter Chicken,"Chicken, Sugar, Butter, Tomato sauce, cream",Dairy
+Chicken Tikka Masala,"Chicken, Sugar, Ghee, Tomato sauce, cream",Dairy
+Gulab Jamun,"Milk solids, Sugar, Ghee, Cardamom syrup",Dairy
+Rabri,"Milk, Sugar, Ghee, Cardamom, nuts",Dairy
+Kheer,"Rice, Sugar, Ghee, Cardamom, nuts",Dairy
+Rasmalai,"Paneer, Sugar, Milk, Ghee, Cardamom, nuts",Dairy
+Chocolate Mousse,"Chocolate, Sugar, Heavy cream, Vanilla extract","Dairy, Cocoa"
+Sweet Potato Casserole,"Sweet potatoes, Brown sugar, Butter, Cinnamon, nutmeg","Dairy, Nuts"
+Sushi,"Fish (salmon, tuna), Rice vinegar, Sesame oil, Soy sauce","Fish, Soybeans"
+Teriyaki Salmon,"Salmon fillet, Sugar, Soy sauce, Ginger, garlic","Fish, Soybeans"
+Honey Soy Glazed Salmon,"Salmon, Honey, Soy sauce, Garlic, ginger","Fish, Soybeans"
+Milk Chocolate,"Sugar, Cocoa butter, Milk powder, Vanilla extract",Milk
+Vanilla Ice Cream,"Milk, Sugar, Cream, Vanilla extract",Milk
+Oatmeal,"Oats, Sugar, Milk, Cinnamon","Oats, Dairy"
+Peanut Butter,"Peanuts, Sugar, Vegetable oil, Salt",Peanuts
+Rice Pudding,"Rice, Sugar, Milk, Cinnamon, raisins","Rice, Dairy"
+Zucchini Bread,"Zucchini, Sugar, Vegetable oil, Flour",Wheat
+Oatmeal Raisin Cookies,"Oats, Sugar, Butter, Flour","Wheat, Dairy"
+Pancakes,"Flour, Sugar, Butter, Baking powder","Wheat, Dairy"
+Carrot Cake,"Carrots, Sugar, Vegetable oil, Cinnamon","Wheat, Dairy"
+Blueberry Muffins,"Blueberries, Sugar, Butter, Flour","Wheat, Dairy"
+Chocolate Chip Cookies,"Flour, Sugar, Butter, Chocolate chips","Wheat, Dairy"
+Cinnamon Rolls,"Flour, Sugar, Butter, Cinnamon","Wheat, Dairy"
+Pineapple Upside-Down Cake,"Pineapple, Sugar, Butter, Flour","Wheat, Dairy"
+Apple Pie,"Apples, Sugar, Butter, Cinnamon","Wheat, Dairy"
+Banana Bread,"Bananas, Sugar, Butter, Flour","Wheat, Dairy"
+Vanilla Cupcakes,"Flour, Sugar, Butter, Vanilla extract","Wheat, Dairy"
+Apple Crisp,"Apples, Sugar, Butter, Cinnamon","Wheat, Dairy"
+Blueberry Pancakes,"Flour, Sugar, Butter, Blueberries","Wheat, Dairy"
+Lemon Bars,"Flour, Sugar, Butter, Lemon juice","Wheat, Dairy"
+Pumpkin Pie,"Pumpkin, Sugar, Butter, Cinnamon, nutmeg","Wheat, Dairy"
+Mixed Berry Pie,"Mixed berries, Sugar, Butter, Flour","Wheat, Dairy"
+Berry Cobbler,"Mixed berries, Sugar, Butter, Flour","Wheat, Dairy"
+Key Lime Pie,"Lime juice, Sugar, Butter, Graham cracker crust","Wheat, Dairy"
+Lemon Poppy Seed Muffins,"Flour, Sugar, Butter, Lemon zest, poppy seeds","Wheat, Dairy"
+Pancake Stack,"Flour, Sugar, Butter, Maple syrup","Wheat, Dairy"
+Strawberry Shortcake,"Strawberries, Sugar, Whipped cream, Shortcake","Wheat, Dairy"
+Berry Crumble,"Mixed berries, Sugar, Butter, Oats, cinnamon","Wheat, Dairy"
+Raspberry Cheesecake,"Cream cheese, Sugar, Butter, Graham cracker crust, raspberries","Wheat, Dairy"
+Oatmeal Raisin Cookies,"Oats, Brown sugar, Butter, Raisins, cinnamon","Wheat, Dairy"
+Apple Crisp,"Apples, Sugar, Butter, Cinnamon, oats","Wheat, Dairy"
+Tiramisu,"Ladyfingers, Sugar, Mascarpone cheese, Coffee, cocoa","Wheat, Dairy"
+Cinnamon Rolls,"Dough, Sugar, Butter, Cinnamon, icing","Wheat, Dairy"
+Baked Apple,"Apples, Sugar, Butter, Cinnamon, oats","Wheat, Dairy"
+Apple Pie,"Apples, Sugar, Butter, Cinnamon, pastry","Wheat, Dairy"
+Pumpkin Pie,"Pumpkin, Sugar, Butter, Pumpkin spice, pastry","Wheat, Dairy"
+Blueberry Muffins,"Flour, Sugar, Butter, Blueberries","Wheat, Dairy"
+Jalebi,"Flour, Sugar, Ghee, Saffron syrup","Wheat, Dairy"
+Tiramisu,"Ladyfingers, Sugar, Mascarpone cheese, coffee liqueur, Cocoa powder","Wheat, Dairy, Alcohol"
+Chocolate Cake,"Flour, Sugar, Butter, Cocoa powder","Wheat, Dairy, Cocoa"
+Chocolate Chip Pancakes,"Flour, Sugar, Butter, Chocolate chips","Wheat, Dairy, Cocoa"
+Lemon Bars,"Lemon juice, Sugar, Butter, Flour, eggs","Wheat, Dairy, Eggs"
+Pecan Pie,"Pecans, Sugar, Butter, Corn syrup","Wheat, Dairy, Nuts"
+Zucchini Bread,"Zucchini, Sugar, Butter, Cinnamon, nuts","Wheat, Dairy, Nuts"
+Banana Bread,"Bananas, Sugar, Butter, Cinnamon, nuts","Wheat, Dairy, Nuts"
