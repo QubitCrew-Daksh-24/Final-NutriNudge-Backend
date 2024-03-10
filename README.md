@@ -10,7 +10,6 @@ Millions of people with allergies face a hidden danger when shopping online: Exi
 ## Existing Solution
 
 - Recommendation Engines
-- Virtual Styling Assistants 
 - Smart Search Functionality
 - Product Reviews and Ratings
 
@@ -47,12 +46,15 @@ By introducing allergy-aware models and a chatbot that has been carefully traine
 
 ✅ **Recipe bot**: The recipe bot can provide step-by-step instructions, ingredient lists, and cooking tips, making it easier for users to prepare meals that align with their health and lifestyle preferences.
 
-🔴 **BMI-Based Healthy Product Recommendation**: Utilizes the user's BMI to recommend products that align with their body type and health goals.
+🟠 **BMI-Based Healthy Product Recommendation**: Utilizes the user's BMI to recommend products that align with their body type and health goals.
 
-🔴 **Nutrition Aware Product Recommendation**: Offers personalized product recommendations based on the user's nutritional needs, including any deficiencies.
+🟠 **Nutrition Aware Product Recommendation**: Offers personalized product recommendations based on the user's nutritional needs, including any deficiencies.
 
-🔴 **Diet Planning**: Features a tool for creating and managing personalized diet plans, considering the user's current diet, nutritional objectives, and dietary restrictions.
+🟠 **Diet Planning**: Features a tool for creating and managing personalized diet plans, considering the user's current diet, nutritional objectives, and dietary restrictions.
 
+## Work Flow
+<div align = center>
+<img src = "./Blank diagram (6).png" alt = "poster1" style = "width: 600px; height: 700px;"></div>
 ## Techstack
 
 <div align = center><img src = "./poster 2.jpg" alt = "poster1" style = "width: 500px; height: 200px;"></div>
@@ -82,6 +84,8 @@ Response time
 
 Response quality
 
+## Output
+<div align = center><img src = "./Screenshot 2024-03-10 at 9.36.09 AM.png" alt = "poster1" style = "width: 900px; height: 450px;"></div>
 
 ## Conclusion
 
