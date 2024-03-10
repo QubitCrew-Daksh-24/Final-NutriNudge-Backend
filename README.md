@@ -53,7 +53,7 @@ By introducing allergy-aware models and a chatbot that has been carefully traine
 
 🔴 **Diet Planning**: Features a tool for creating and managing personalized diet plans, considering the user's current diet, nutritional objectives, and dietary restrictions.
 
-## Techstack<
+## Techstack
 
 <div align = center><img src = "./poster 2.jpg" alt = "poster1" style = "width: 500px; height: 200px;"></div>
 
