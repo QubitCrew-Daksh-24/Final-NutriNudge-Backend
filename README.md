@@ -55,8 +55,8 @@ By introducing allergy-aware models and a chatbot that has been carefully traine
 ## Work Flow
 <div align = center>
 <img src = "./Blank diagram (6).png" alt = "poster1" style = "width: 600px; height: 700px;"></div>
-## Techstack
 
+## Tech Stack
 <div align = center><img src = "./poster 2.jpg" alt = "poster1" style = "width: 500px; height: 200px;"></div>
 
 ## Intel One API
