@@ -73,9 +73,23 @@ Intel® oneAPI is a comprehensive development platform designed to simplify the 
 - **Hardware-Agnostic Deployment**: Allows developers to write applications that can run efficiently on different types of Intel® hardware without needing recompilation or modification, facilitating easier deployment and potentially increasing computing speed.
 
 ## Benchmarking
-<img src = "./poster 1.jpg" alt = "poster1" style = "width: 600px; height: 300px;">
-<img src = "./poster 1.jpg" alt = "poster1" style = "width: 600px; height: 300px;">
+<div><img src = "./graph 1.jpg" alt = "poster1" style = "width: 600px; height: 300px;"></div>
+
+Response time 
 
 
-## <span style="color: #3ffdfd">Conclusion</span>
+<div><img src = "./graph 2.jpg" alt = "poster1" style = "width: 600px; height: 300px;"></div>
+
+Response quality
+
+
+## Conclusion
+
+In conclusion, the project successfully leverages the power of Intel® oneAPI to enhance the performance and efficiency of our application. By adopting a unified programming model and utilizing optimized libraries and frameworks, we have ensured that our application can run efficiently across a variety of Intel® hardware types. This approach not only simplifies development but also significantly increases computing speed, making our application more accessible and performant.
+
+The project's focus on a performance-centric mindset has been instrumental in identifying and addressing performance bottlenecks, leading to a more streamlined and faster application. Furthermore, the ability to deploy our application in a hardware-agnostic manner has provided flexibility and scalability, allowing us to easily adapt to different hardware environments without compromising performance.
+
+Overall, the integration of Intel® oneAPI into our project has not only met our performance goals but has also set a new standard for efficiency and speed in our industry. As we continue to refine and expand our application, we look forward to further leveraging the capabilities of Intel® oneAPI to drive innovation and excellence in our field.
+
+
 
